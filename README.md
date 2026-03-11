@@ -20,11 +20,21 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+### Draw a horizontal line AD = 120 mm to represent the fixed link of the four-bar mechanism.
+
+### At point A, draw AB = 30 mm making an angle of 60° with AD to represent the crank position.
+
+### With B as centre and radius BC = 120 mm, draw an arc.
+
+### With D as centre and radius CD = 60 mm, draw another arc cutting the first arc at point C.
+
+### Join BC and CD to obtain the quadrilateral ABCD, which represents the displacement (position) diagram of the four-bar chain.
+
+### To draw the velocity diagram, assume the angular velocity of crank AB and draw the velocity of point B perpendicular to AB.
+
+### From the velocity diagram origin, draw a line parallel to BC and from the end of velocity of B draw a line perpendicular to BC to locate the velocity of C.
+
+### Join the obtained points in the velocity diagram to determine the velocity of link BC and the follower CD.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
@@ -53,10 +63,15 @@
 
 
 ## Output:
+<img width="1137" height="800" alt="Screenshot 2026-03-11 104740" src="https://github.com/user-attachments/assets/47d58fad-67c0-4e51-80e9-87b42323fd94" />
+<img width="982" height="457" alt="Screenshot 2026-03-11 104749" src="https://github.com/user-attachments/assets/f95fd850-11c3-4826-9a01-06837aead2fe" />
+<img width="1128" height="766" alt="Screenshot 2026-03-11 105101" src="https://github.com/user-attachments/assets/0b323dd5-8653-449c-b97e-a02e3015c84a" />
+<img width="965" height="246" alt="Screenshot 2026-03-11 105110" src="https://github.com/user-attachments/assets/f3ea6de9-4d7f-453f-8e10-1a3e31ab9929" />
+<img width="979" height="484" alt="Screenshot 2026-03-11 105117" src="https://github.com/user-attachments/assets/0d49e906-73c4-42cd-b2fb-d081d875e25d" />
 
 
-### Name:
-### Register Number: 
+### Name:V R GHAVASKAR
+### Register Number: 21225040093
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
